@@ -1,7 +1,6 @@
 #KILL OR BE KIILED
 
 import random
-import time
 
 def definir_balas():
     global balas_reales, balas_falsas
